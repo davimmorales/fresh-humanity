@@ -41,7 +41,7 @@
        fy="38.243561"
        r="3.5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.2047401,-4.5399389,46.576336,32.878381,-1750.6672,-785.90662)" />
+       gradientTransform="matrix(3.2047401,-4.5399389,46.576336,32.878381,-1747.4806,-784.57954)" />
     <linearGradient
        id="linearGradient5244"
        inkscape:collect="always">
@@ -64,7 +64,7 @@
        fy="38.243561"
        r="3.5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9423014,-3.0753741,48.202582,30.443993,-1646.5858,-822.83909)" />
+       gradientTransform="matrix(1.9423014,-3.0753741,48.202582,30.443993,-1646.5858,-819.38715)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5212">
@@ -87,7 +87,7 @@
        fy="38.243561"
        r="8.5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(5.3526464,1.1112361,-4.7108235,22.691942,272.0733,-655.19704)" />
+       gradientTransform="matrix(5.3526464,1.1112361,-4.7108235,22.691942,272.0733,-651.7451)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5111">
@@ -100,19 +100,6 @@
          offset="1"
          id="stop5115" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5189"
-       x="-0.037500001"
-       width="1.075"
-       y="-0.037500001"
-       height="1.075">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.375"
-         id="feGaussianBlur5191" />
-    </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -191,12 +178,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1016"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.92007795"
-     inkscape:cx="164.92627"
-     inkscape:cy="322.73419"
+     inkscape:cx="-67.119287"
+     inkscape:cy="320.56046"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -258,101 +245,94 @@
      cx="30.77047"
      cy="38.243561"
      r="12.5"
-     transform="matrix(7.4967511,0,0,7.964518,22.905629,-52.768019)" />
+     transform="matrix(7.4967511,0,0,7.964518,27.46918,-52.01099)" />
   <ellipse
      style="opacity:1;fill:#262626;fill-opacity:0.92280704;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
      id="path4943-6"
      cx="256.61807"
-     cy="246.81689"
+     cy="250.26884"
      rx="95.190956"
      ry="95.192337" />
-  <circle
-     style="opacity:1;fill:#000000;fill-opacity:0.21403509;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941;filter:url(#filter5189)"
-     id="path4943-1"
-     cx="30.77047"
-     cy="38.243561"
-     r="12"
-     transform="matrix(7.4966446,0,0,7.9645207,25.10838,-52.768106)" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 256.61808,151.62458 0,27.14166"
+     d="m 256.61808,155.07652 0,27.14166"
      id="path4992"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 256.61808,314.86762 0,27.14166"
+     d="m 256.61808,318.31956 0,27.14166"
      id="path4992-8"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 188.56836,246.81697 -27.14123,0"
+     d="m 188.56836,250.26891 -27.14123,0"
      id="path4992-7"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 351.80904,246.81697 -27.14123,0"
+     d="m 351.80904,250.26891 -27.14123,0"
      id="path4992-7-9"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 205.29674,202.36978 -19.37089,-19.0112"
+     d="m 205.29674,205.82172 -19.37089,-19.0112"
      id="path4992-7-2"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 324.73569,312.23494 305.3648,293.22374"
+     d="M 324.73569,315.68688 305.3648,296.67568"
      id="path4992-7-2-0"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 212.63064,296.76394 -19.37089,19.0112"
+     d="m 212.63064,300.21588 -19.37089,19.0112"
      id="path4992-7-2-2"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.32692289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 327.09579,183.08382 -19.37089,19.0112"
+     d="m 327.09579,186.53576 -19.37089,19.0112"
      id="path4992-7-2-2-3"
      inkscape:connector-curvature="0" />
   <ellipse
      style="opacity:1;fill:#d7d7d7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
      id="path4943-6-1-2"
      cx="256.61807"
-     cy="246.81689"
+     cy="250.26884"
      rx="73.556641"
      ry="73.557716" />
   <ellipse
      style="opacity:1;fill:url(#radialGradient5117);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
      id="path4943-6-1-2-2"
      cx="256.61807"
-     cy="246.81689"
+     cy="250.26884"
      rx="73.556641"
      ry="73.557716" />
   <ellipse
      style="opacity:1;fill:#2e2e2e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
      id="path4943-6-1-2-2-3"
      cx="256.61807"
-     cy="246.81689"
+     cy="250.26884"
      rx="43.268616"
      ry="43.269249" />
   <ellipse
      style="opacity:1;fill:#e3e3e3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
      id="path4943-6-1-2-2-3-6"
      cx="256.61807"
-     cy="246.81689"
+     cy="250.26884"
      rx="30.288031"
      ry="30.288471" />
   <ellipse
      style="opacity:1;fill:url(#radialGradient5218);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
      id="path4943-6-1-2-2-3-6-2"
      cx="256.61807"
-     cy="246.81689"
+     cy="250.26884"
      rx="30.288031"
      ry="30.288471" />
   <ellipse
      style="opacity:1;fill:url(#radialGradient5218-9);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
      id="path4943-6-1-2-2-3-6-2-9"
-     cx="129.18909"
-     cy="331.78366"
+     cx="132.37573"
+     cy="333.11075"
      transform="matrix(-0.38444302,0.92314872,0.92314322,0.38445623,0,0)"
      rx="30.288212"
      ry="30.288292" />
